@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[SpreadsheetEditor.cs](./CS/SpreadsheetExample.Module.Web/Editors/SpreadsheetEditor.cs) (VB: [SpreadsheetEditor.vb](./VB/SpreadsheetExample.Module.Web/Editors/SpreadsheetEditor.vb))**
+* [Report.cs](./CS/SpreadsheetExample.Module/BusinessObjects/Report.cs) (VB: [Report.vb](./VB/SpreadsheetExample.Module/BusinessObjects/Report.vb))
+* [SpreadsheetDocument.cs](./CS/SpreadsheetExample.Module/BusinessObjects/SpreadsheetDocument.cs) (VB: [SpreadsheetDocument.vb](./VB/SpreadsheetExample.Module/BusinessObjects/SpreadsheetDocument.vb))
+<!-- default file list end -->
 # T575086: How to use the ASPxSpreadsheet control in an XAF ASP.NET WebForms application
 
 
