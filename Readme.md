@@ -1,5 +1,9 @@
 # OBSOLETE - How to use the ASPxSpreadsheet control in an XAF ASP.NET WebForms application
 
-**\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=**  
-**This example is obsolete. Refer to the [T806194 - ASP.NET WebForms Spreadsheet Editor - Early Access Preview v19.2](https://www.devexpress.com/Support/Center/Question/Details/T806194/asp-net-webforms-spreadsheet-editor-early-access-preview-v19-2) help topic instead.**  
-**\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=**  
+
+In 19.2+ XAF Office Module includes the DevExpress WebForms Spreadsheet control. You can use it to display and edit Excel documents (stored in the byte array properties of your business objects). [Documentation][1]
+
+
+[1]: https://docs.devexpress.com/eXpressAppFramework/400931/concepts/extra-modules/office-module/use-spreadsheet-documents-in-business-objects?v=19.2
+
+
